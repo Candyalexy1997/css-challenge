@@ -83,7 +83,6 @@ p {
     margin-left: 20px;
 }
 
-/*Added container element for the side-bar image to move as one*/
 .side-bar {
     margin-right: 20px;
     padding: 20px
@@ -93,6 +92,8 @@ p {
     height: 80%;
 
 }
+
+/*Start of Benefits related styling elements*/
 
 .benefits {
     margin-right: 20px;
@@ -152,6 +153,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* End of Benefits related styling elements */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -215,6 +218,8 @@ p {
 }
 
 /*Main Content End*/
+
+/*Footer Styling*/
 
 .footer {
     padding: 30px;
